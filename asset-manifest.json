@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/static/css/main.a806e81d.css",
-    "main.js": "/static/js/main.aca48b45.js",
-    "index.html": "/index.html",
-    "main.a806e81d.css.map": "/static/css/main.a806e81d.css.map",
-    "main.aca48b45.js.map": "/static/js/main.aca48b45.js.map"
+    "main.css": "/TravelMitra/static/css/main.a806e81d.css",
+    "main.js": "/TravelMitra/static/js/main.aca48b45.js",
+    "index.html": "/TravelMitra/index.html",
+    "main.a806e81d.css.map": "/TravelMitra/static/css/main.a806e81d.css.map",
+    "main.aca48b45.js.map": "/TravelMitra/static/js/main.aca48b45.js.map"
   },
   "entrypoints": [
     "static/css/main.a806e81d.css",
